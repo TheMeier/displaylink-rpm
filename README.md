@@ -54,6 +54,7 @@ $ xz -f /lib/modules/$(uname -r)/extra/evdi.ko
 Now any display, hdmi and/or dvi ports on your docking station should work, 
 and the displaylink.service should run.
 
+You can find a documentation on how to automate this at https://gist.github.com/sbueringer/bd8cec239c44d66967cf307d808f10c4
 
 Hardware-specific behavior
 --------------------------
